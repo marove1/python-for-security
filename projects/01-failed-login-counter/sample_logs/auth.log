@@ -1,1 +1,7 @@
-
+Jan 10 08:41:12 server sshd[1024]: Failed password for invalid user admin from 192.168.1.50 port 53422 ssh2
+Jan 10 08:41:20 server sshd[1024]: Failed password for invalid user admin from 192.168.1.50 port 53423 ssh2
+Jan 10 08:41:29 server sshd[1024]: Failed password for root from 192.168.1.60 port 60211 ssh2
+Jan 10 08:42:01 server sshd[1024]: Accepted password for marco from 192.168.1.100 port 51000 ssh2
+Jan 10 08:42:15 server sshd[1024]: Failed password for invalid user test from 10.0.0.25 port 40211 ssh2
+Jan 10 08:42:30 server sshd[1024]: Failed password for root from 192.168.1.60 port 60212 ssh2
+Jan 10 08:42:44 server sshd[1024]: Failed password for invalid user guest from 10.0.0.25 port 40212 ssh2
